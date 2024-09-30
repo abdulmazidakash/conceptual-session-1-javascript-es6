@@ -42,5 +42,9 @@ const myInfo = {
 	}
 }
 
-console.log(myInfo['sosurName']);
-
+// console.log(myInfo['sosurName']);
+for(let key in myInfo){
+	console.log(myInfo[key]);
+	// key.contact;
+	// console.log(contact)
+}

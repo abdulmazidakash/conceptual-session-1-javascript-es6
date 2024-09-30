@@ -1,5 +1,0 @@
-{
-	"terminal.integrated.persistentSessionReviveProcess": "onExit",
-	"remote.forwardOnOpen": true,
-	"terminal.integrated.accessibleViewPreserveCursorPosition": true
-}
